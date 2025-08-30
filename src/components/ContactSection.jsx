@@ -54,7 +54,7 @@ export const ContactSection = () => {
                             <div>
                                 <h4 className="font-medium">Email</h4>
                                 <a href="mailto:hello@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">
-                                    Hello@gmail.com
+                                    iqbls.jnr@gmail.com
                                 </a>
                             </div>
                         </div>
@@ -90,7 +90,7 @@ export const ContactSection = () => {
                             <a href="#" target="_blank">
                                 <Linkedin />
                             </a>
-                            <a href="#" target="_blank">
+                            <a href="https://www.instagram.com/gottaluvblak/" target="_blank">
                                 <Instagram />
                             </a>
                             <a href="#" target="_blank">
