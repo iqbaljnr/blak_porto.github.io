@@ -71,9 +71,9 @@ export const AboutSection = () => {
                             <FaBriefcase className="h-6 w-6 text-primary" />
                             </div>
                             <div className="text-left">
-                                <h4 className="text-semibold text-lg">Design Graphic & Web Development</h4>
+                                <h4 className="text-semibold text-lg">Design Graphics</h4>
                                 <p className="text-muted-foreground">
-                                    Creating websites and Design with modern frameworks.
+                                    Creating bold graphics and innovative designs with modern tools.
                                 </p>
                             </div>
                         </div>

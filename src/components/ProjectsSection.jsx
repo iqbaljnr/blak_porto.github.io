@@ -4,29 +4,47 @@ import { ArrowRight, ExternalLink } from "lucide-react"
 const projects = [
     {
         id: 1,
-        title: "Theme Feeds Design",
-        description: "HMIF feeds with culture edgy style.",
+        title: "Feed Design Themes",
+        description: "HMIF feed themes with culture-edgy style.",
         image: "/projects/image1.jpeg",
         tags: ["Photoshop", "Design"],
-        demoUrl: "#",
+        demoUrl: "https://www.instagram.com/hmifunikom/",
         githubUrl: "#"
     },
     {
         id: 2,
-        title: "GAMATIF Theme Feeds Design",
+        title: "Feed Design Themes",
         description: "HMIF feeds with robots elegant street style.",
         image: "/projects/image2.jpeg",
         tags: ["Photoshop", "Design"],
-        demoUrl: "#",
+        demoUrl: "https://www.instagram.com/gamatif2025/",
         githubUrl: "#"
     },
     {
         id: 3,
-        title: "Theme Feeds Design",
-        description: "HMIF feeds with culture edgy style.",
+        title: "Feed Design Themes",
+        description: "HMIF feed themes with edgy-street style.",
         image: "/projects/image3.jpeg",
         tags: ["Photoshop", "Design"],
-        demoUrl: "#",
+        demoUrl: "https://www.instagram.com/hmifunikom/",
+        githubUrl: "#"
+    },
+    {
+        id: 4,
+        title: "Creative Content Planner",
+        description: "I create an creative, inovative, and unique design for Pemuda Digital Kreatif.",
+        image: "/projects/image4.jpeg",
+        tags: ["Photoshop", "Design"],
+        demoUrl: "https://www.instagram.com/pemudadigitalkreatif/",
+        githubUrl: "#"
+    },
+    {
+        id: 5,
+        title: "Creative Gallery",
+        description: "I create an creative, experimental, and unique design for my own gallery.",
+        image: "/projects/image5.jpeg",
+        tags: ["Photoshop", "Design"],
+        demoUrl: "https://www.instagram.com/gottaluvblak/",
         githubUrl: "#"
     },
 ]

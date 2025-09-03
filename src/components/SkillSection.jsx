@@ -12,19 +12,16 @@ const skills = [
 
     // design
     {name: "UI/UX", level: 95, category: "design"},
-    {name: "Feeds", level: 95, category: "design"},
-    {name: "Logo", level: 85, category: "design"},
-    {name: "Visual", level: 89, category: "design"},
-    {name: "Poster", level: 95, category: "design"},
+    {name: "Visual Video", level: 89, category: "design"},
+    {name: "Graphics", level: 95, category: "design"},
 
     // tools
     {name: "Photoshop", level: 95, category: "tools"},
     {name: "Figma", level: 89, category: "tools"},
     {name: "Canva", level: 87, category: "tools"},
     {name: "Capcut", level: 85, category: "tools"},
-    {name: "Blender", level: 75, category: "tools"},
+    {name: "Blender", level: 65, category: "tools"},
     {name: "VS Code", level: 85, category: "tools"},
-    {name: "Docker", level: 70, category: "tools"},
     {name: "Git/Github", level: 75, category: "tools"},
 ]
 
