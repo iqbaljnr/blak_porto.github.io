@@ -87,9 +87,9 @@ export const ContactSection = () => {
                             Connect With Me
                         </h4>
                         <div className="flex space-x-4 justify-center">
-                            {/* <a href="#" target="_blank">
+                            <a href="https://www.linkedin.com/in/muhammad-januar-5401b2269/" target="_blank">
                                 <Linkedin />
-                            </a> */}
+                            </a>
                             <a href="https://www.instagram.com/iqbljnr/" target="_blank">
                                 <Instagram />
                             </a>
